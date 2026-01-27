@@ -3,9 +3,9 @@
 AI/ML Engineer with 4 years of experience building production NLP systems and LLM-powered applications. Currently pursuing my MS in Applied AI at Northeastern University.
 
 ### What I work on
-- 🤖 LLM applications — chatbots, RAG systems, multi-agent workflows
-- 🔧 NLP pipelines — classification, entity extraction, summarization
-- ⚡ Workflow automation — n8n, LangChain, LangGraph
+- 🤖 LLM applications - chatbots, RAG systems, multi-agent workflows
+- 🔧 NLP pipelines - classification, entity extraction, summarization
+- ⚡ Workflow automation - n8n, LangChain, LangGraph
 
 ### Featured Projects
 | Project | What it does |
@@ -16,10 +16,10 @@ AI/ML Engineer with 4 years of experience building production NLP systems and LL
 
 ### Tech Stack
 ```
-Languages:    Python, SQL
-ML/AI:        PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph
-NLP:          spaCy, NLTK, Transformers
-Tools:        Git, Docker, n8n, Jupyter
+Frameworks & Libraries: PyTorch, TensorFlow, Keras, Hugging Face, LangChain, LangGraph, scikit-learn, spaCy, NLTK, NumPy, Pandas, Matplotlib, Seaborn
+ML & AI: Generative AI (LLMs, Diffusion Models), Agentic AI (LangGraph), NLP (Summarization, Chatbots), Deep Learning, Neural Networks, Model Evaluation & Fine-Tuning
+Automation & MLOps: CI/CD,  n8n Orchestration, Prompt Engineering, Agile Framework  
+Language & Developer Tools: Python, Git, VS Code, Jupyter
 ```
 
 ### Currently
