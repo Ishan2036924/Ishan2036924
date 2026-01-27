@@ -31,5 +31,5 @@ MLOps:          CI/CD, n8n Orchestration, Git, Jupyter
 
 ### Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-srivastava-7742b121a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://ishan-srivastava-unvr49x.gamma.site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://bit.ly/Ishan_portfolio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:srivastava.ish@northeastern.edu)
