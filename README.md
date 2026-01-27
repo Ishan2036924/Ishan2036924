@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hey, I'm Ishan 👋
 
-<!--
-**Ishan2036924/Ishan2036924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer with 4 years of experience building production NLP systems and LLM-powered applications. Currently pursuing my MS in Applied AI at Northeastern University.
 
-Here are some ideas to get you started:
+### What I work on
+- 🤖 LLM applications — chatbots, RAG systems, multi-agent workflows
+- 🔧 NLP pipelines — classification, entity extraction, summarization
+- ⚡ Workflow automation — n8n, LangChain, LangGraph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+| Project | What it does |
+|---------|--------------|
+| [RAG-Chatbot](https://github.com/Ishan2036924/RAG-Chatbot) | Advanced retrieval-augmented chatbot with contextual memory |
+| [Text-to-Image Evaluation](https://github.com/Ishan2036924/Text-to-Image-Quality-Evaluation-Computer-Vision) | Benchmarking framework for diffusion models using CLIP, FID, LPIPS |
+| [Word Embeddings Analysis](https://github.com/Ishan2036924/word-embeddings-news-analysis) | Word2Vec & GloVe exploration on news articles with custom training |
+
+### Tech Stack
+```
+Languages:    Python, SQL
+ML/AI:        PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph
+NLP:          spaCy, NLTK, Transformers
+Tools:        Git, Docker, n8n, Jupyter
+```
+
+### Currently
+- 🎓 MS Applied AI @ Northeastern (2025-2027)
+- 🔍 Seeking Summer 2026 AI/ML Co-op
+- 🛠️ Building an automated AI newsletter pipeline
+
+### Let's connect
+[![LinkedIn](https://www.linkedin.com/in/ishan-srivastava-7742b121a/)
+[![Portfolio](https://ishan-srivastava-unvr49x.gamma.site/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:srivastava.ish@northeastern.edu)
