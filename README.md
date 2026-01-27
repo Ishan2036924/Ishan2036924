@@ -16,10 +16,12 @@ AI/ML Engineer with 4 years of experience building production NLP systems and LL
 
 ### Tech Stack
 ```
-Frameworks & Libraries: PyTorch, TensorFlow, Keras, Hugging Face, LangChain, LangGraph, scikit-learn, spaCy, NLTK, NumPy, Pandas, Matplotlib, Seaborn
-ML & AI: Generative AI (LLMs, Diffusion Models), Agentic AI (LangGraph), NLP (Summarization, Chatbots), Deep Learning, Neural Networks, Model Evaluation & Fine-Tuning
-Automation & MLOps: CI/CD,  n8n Orchestration, Prompt Engineering, Agile Framework  
-Language & Developer Tools: Python, Git, VS Code, Jupyter
+Languages:      Python
+Frameworks:     PyTorch, TensorFlow, Keras, Hugging Face, LangChain, LangGraph, scikit-learn
+NLP:            spaCy, NLTK, Summarization, Chatbots, Fine-Tuning
+GenAI:          LLMs, RAG, Diffusion Models, Agentic AI, Prompt Engineering
+MLOps:          CI/CD, n8n Orchestration, Git, Jupyter
+
 ```
 
 ### Currently
