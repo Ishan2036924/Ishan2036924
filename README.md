@@ -7,13 +7,6 @@ AI/ML Engineer with 4 years of experience building production NLP systems and LL
 - 🔧 NLP pipelines - classification, entity extraction, summarization
 - ⚡ Workflow automation - n8n, LangChain, LangGraph
 
-### Featured Projects
-| Project | What it does |
-|---------|--------------|
-| [RAG-Chatbot](https://github.com/Ishan2036924/RAG-Chatbot) | Advanced retrieval-augmented chatbot with contextual memory |
-| [Text-to-Image Evaluation](https://github.com/Ishan2036924/Text-to-Image-Quality-Evaluation-Computer-Vision) | Benchmarking framework for diffusion models using CLIP, FID, LPIPS |
-| [Word Embeddings Analysis](https://github.com/Ishan2036924/word-embeddings-news-analysis) | Word2Vec & GloVe exploration on news articles with custom training |
-
 ### Tech Stack
 ```
 Languages:      Python
