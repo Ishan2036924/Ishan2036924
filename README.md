@@ -6,14 +6,6 @@ Open to **Fall 2026 AI/ML co-op** in the US (Boston preferred, remote OK).
 
 ---
 
-## Now
-
-- Shipping public mirrors for OmegaTK, Findmejob, and UpMyRank
-- Phase 3 LangGraph track (Krish Naik): multi-agent content automation,
-- Writing on Medium about RAG eval, prompt caching, and the gap between architecture docs and what actually breaks in production
-
----
-
 ## Projects
 
 ### OmegaTK Code Assistant
