@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="190" viewBox="0 0 430 190" role="img" aria-labelledby="t">
+<title id="t">Atlas Intelligent Workspace: One AI workspace for docs, sheets, boards, tasks, calendar and mail, with agents that ask before anything leaves. Private beta.</title>
+<style>
+.sans{font-family:-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Inter, Helvetica, Arial, sans-serif} .mono{font-family:ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace}
+.h{fill:#e6edf3;font-weight:600} .m{fill:#8b949e} .f{fill:#5c6672} .a{fill:#3fb950}
+.k{font-family:ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;font-size:11px;letter-spacing:.08em;fill:#5c6672}
+.rise{opacity:0;animation:rise .6s ease-out forwards}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion: reduce){.rise{animation:none;opacity:1}}
+
+</style>
+<rect width="430" height="190" rx="16" fill="#0d1117" stroke="#222a35"/>
+<text x="24" y="36" class="k">PRODUCT · ATLASIW.COM</text>
+<text x="406" y="36" class="k" text-anchor="end" fill="#3fb950" style="fill:#3fb950">BUILDING</text>
+<text x="24" y="70" class="sans h" font-size="21" letter-spacing="-.3">Atlas Intelligent Workspace</text>
+<text x="24" y="98" class="sans m" font-size="13">One AI workspace for docs, sheets, boards, tasks,</text>
+<text x="24" y="117" class="sans m" font-size="13">calendar and mail, with agents that ask before</text>
+<text x="24" y="136" class="sans m" font-size="13">anything leaves. Private beta.</text>
+<rect x="24" y="150" width="54" height="22" rx="11" fill="#111720" stroke="#222a35"/><text x="51" y="165" text-anchor="middle" class="mono m" font-size="11">agents</text>
+<rect x="85.6" y="150" width="73" height="22" rx="11" fill="#111720" stroke="#222a35"/><text x="122" y="165" text-anchor="middle" class="mono m" font-size="11">approvals</text>
+<rect x="167.0" y="150" width="40" height="22" rx="11" fill="#111720" stroke="#222a35"/><text x="187" y="165" text-anchor="middle" class="mono m" font-size="11">undo</text>
+<rect x="215.4" y="150" width="60" height="22" rx="11" fill="#111720" stroke="#222a35"/><text x="246" y="165" text-anchor="middle" class="mono m" font-size="11">masking</text>
+</svg>
