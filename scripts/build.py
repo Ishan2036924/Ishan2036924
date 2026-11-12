@@ -72,8 +72,6 @@ query($login: String!) {
       }
     }
     contributionsCollection {
-      totalCommitContributions
-      totalPullRequestContributions
       contributionCalendar {
         totalContributions
         weeks { contributionDays { date contributionCount weekday } }
@@ -281,6 +279,9 @@ def dashboard(user: dict, versions: dict) -> str:
     q = [counts[int(len(counts) * p)] for p in (0.25, 0.5, 0.75)] if counts else [1, 2, 3]
     cur, longest = streaks(days)
     best = max(days, key=lambda d: d["contributionCount"])
+    # every number comes from the calendar, which includes private work the
+    # owner chose to show; commit totals from the API would count public only
+    this_month = sum(d["contributionCount"] for d in days if d["date"][:7] == days[-1]["date"][:7])
     active = sum(1 for d in days if d["contributionCount"] > 0)
     joined = dt.datetime.fromisoformat(user["createdAt"].replace("Z", "+00:00"))
     years = (dt.datetime.now(dt.timezone.utc) - joined).days // 365
@@ -314,7 +315,7 @@ def dashboard(user: dict, versions: dict) -> str:
     sx, sy = 276, 24
     tiles = [
         (fmt(cal["totalContributions"]), "contributions"),
-        (fmt(cc["totalCommitContributions"]), "commits"),
+        (fmt(this_month), "this month"),
         (f"{cur} days", "current streak"),
         (f"{longest} days", "longest streak"),
         (f"{active}/{len(days)}", "active days"),
